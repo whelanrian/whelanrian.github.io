@@ -689,7 +689,7 @@ span {
 	}
 }
 
-@media (max-width: 371px) {
+@media (max-width: 400px) {
 	.home {
 		justify-content: center;
 	}
@@ -703,6 +703,10 @@ span {
 
 	.home-content h1 {
 		font-size: 5rem;
+	}
+
+	.btn-box {
+		display: none;
 	}
 }
 
